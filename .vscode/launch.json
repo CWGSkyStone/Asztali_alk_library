@@ -1,0 +1,23 @@
+/*
+* File: launch.json
+* Author: Szabó József
+* Copyright: 2026, Szabó József
+* Group: Szoft II/N
+* Date: 2026-10-28
+* Github: https://github.com/CWGSkyStone/
+* Licenc: MIT
+*/
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "App",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "vmArgs": "--enable-native-access=ALL-UNNAMED -Dfile.encoding=UTF-8"
+        }
+    ]
+}

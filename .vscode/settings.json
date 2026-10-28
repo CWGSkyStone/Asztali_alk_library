@@ -1,0 +1,15 @@
+/*
+* File: settings.json
+* Author: Szabó József
+* Copyright: 2026, Szabó József
+* Group: Szoft II/N
+* Date: 2026-10-28
+* Github: https://github.com/CWGSkyStone/
+* Licenc: MIT
+*/
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": ["lib/**/*.jar"],
+    "files.encoding": "utf8"
+}

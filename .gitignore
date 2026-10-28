@@ -1,0 +1,15 @@
+# File: .gitignore
+# Author: Szabó József
+# Copyright: 2026, Szabó József
+# Group: Szoft II/N
+# Date: 2026-10-28
+# Github: https://github.com/CWGSkyStone/
+# Licenc: MIT
+
+/bin/
+*.class
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
+Thumbs.db
